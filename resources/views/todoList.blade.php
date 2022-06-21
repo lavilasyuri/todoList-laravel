@@ -28,7 +28,7 @@
                 <table class="table">
                     <thead>
                         <tr>
-                            <th scope="col">Tarefas</th>     
+                            <th scope="col"><h4>Tarefas</h4></th>     
                         </tr>
                     </thead>
                     <tbody>
